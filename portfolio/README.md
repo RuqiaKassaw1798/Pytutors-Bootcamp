@@ -18,14 +18,14 @@ This project was built using core web technologies:
 * **Modern Aesthetic:** A vibrant, friendly color palette designed to reflect a welcoming personal brand.
 
 ## 📸 Project Preview
-*### Final Project View
-![My Portfolio Screenshot](projectOverview.jpg)*
+![Project Preview](image/projectOverview.jpg)
 
 ## 📁 Project Structure
 ```text
 ├── css/
-│   └── style.css      # Custom styles and responsive rules
+│   └── style.css
 ├── image/
-│   └── profile.png    # My profile picture
-├── index.html         # Main structure and content
-└── README.md          # Project documentation
+│   ├── profile.png
+│   └── projectOverview.jpg
+├── index.html
+└── README.md
